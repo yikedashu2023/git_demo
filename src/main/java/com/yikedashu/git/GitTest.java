@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("你好Git");
         System.out.println("你好Git001");
         System.out.println("你好Git002");
-        System.out.println("你好Git_fenzhi");
+        System.out.println("你好master");
     }
 }
